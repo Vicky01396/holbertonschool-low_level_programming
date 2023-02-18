@@ -15,7 +15,7 @@ int main(void)
 		if (ls != 19)
 		{
 			putchar(',');
-			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
