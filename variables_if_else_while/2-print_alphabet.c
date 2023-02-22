@@ -14,6 +14,6 @@ int main(void)
 		putchar(abc);
 		abc++;
 	}
-	putchar ('\n');
+	putchar('\n');
 	return (0);
 }
