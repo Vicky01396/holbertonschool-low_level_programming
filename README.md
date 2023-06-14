@@ -40,7 +40,7 @@ How to get the size of a specific type using the unary operator sizeof
 + You are not allowed to use system
 + Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
-## Tasks 📄 
+## Tasks 📝  
 ### Task 0 - Preprocessor
 Write a script that runs a C file through the preprocessor and save the result into another file.
 ### Task 1 - Compiler
