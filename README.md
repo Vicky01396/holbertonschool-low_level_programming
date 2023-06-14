@@ -1,6 +1,6 @@
 ![Imagen](https://www.mundacomputers.com/wp-content/uploads/2020/08/c.png)
 # C, Hello World
-##Recursos
+## Recursos
 + Todo lo que necesitas saber para empezar con C.pdf (No tienes que aprenderte todo lo que hay, pero asegúrate de leerlo entero primero)
 + Dennis Ritchie
 + Lenguaje de Programación "C Brian Kernighan
@@ -12,7 +12,7 @@
 + Hash-bang bajo el capó (Míralo sólo cuando termines de consumir los otros recursos)
 + Linus Torvalds on C vs. C++ (Ver sólo después de terminar de consumir los otros recursos)
 
-##Objetivos de aprendizaje
+## Objetivos de aprendizaje
 Al final de este proyecto, se espera que seas capaz de explicar a cualquier persona, sin la ayuda de Google.
 
 ## General
