@@ -1,19 +1,19 @@
 ![Imagen](https://www.mundacomputers.com/wp-content/uploads/2020/08/c.png)
 # C, Hello World
-## Recursos
-+ Todo lo que necesitas saber para empezar con C.pdf (No tienes que aprenderte todo lo que hay, pero asegúrate de leerlo entero primero)
+## Resources
+ +Everything you need to know to get started with C.pdf (You don't have to learn everything in it, but make sure you read the whole thing first)
 + Dennis Ritchie
-+ Lenguaje de Programación "C Brian Kernighan
-+ Por qué la programación en C es impresionante
-+ Aprendiendo a programar en C parte 1
-+ Aprender a programar en C parte 2
-+ Entendiendo el Proceso de Compilación de Programas en C
-+ Estilo de Codificación Betty
-+ Hash-bang bajo el capó (Míralo sólo cuando termines de consumir los otros recursos)
-+ Linus Torvalds on C vs. C++ (Ver sólo después de terminar de consumir los otros recursos)
++ C Programming Language Brian Kernighan
++ Why C programming is awesome
++ Learning to program in C part 1
++ Learning to program in C part 2
+Understanding the C Program Compilation Process + Understanding the C Compilation Process
++ Betty's Coding Style
++ Hash-bang under the hood (Watch it only when you're done consuming the other resources)
++ Linus Torvalds on C vs. C++ (Watch only after you are done consuming the other resources)
 
-## Objetivos de aprendizaje
-Al final de este proyecto, se espera que seas capaz de explicar a cualquier persona, sin la ayuda de Google.
+## Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google.
 
 ## General
 + Why C programming is awesome
