@@ -1,4 +1,4 @@
-![Imagen](https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png)
+![Imagen](https://www.mundacomputers.com/wp-content/uploads/2020/08/c.png)
 # C, Hello World
 ##Recursos
 + Todo lo que necesitas saber para empezar con C.pdf (No tienes que aprenderte todo lo que hay, pero asegúrate de leerlo entero primero)
