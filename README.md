@@ -1,19 +1,4 @@
 ![Imagen](https://www.mundacomputers.com/wp-content/uploads/2020/08/c.png)
-# C, Hello World
-## Resources
- +Everything you need to know to get started with C.pdf (You don't have to learn everything in it, but make sure you read the whole thing first)
-+ Dennis Ritchie
-+ C Programming Language Brian Kernighan
-+ Why C programming is awesome
-+ Learning to program in C part 1
-+ Learning to program in C part 2
-Understanding the C Program Compilation Process + Understanding the C Compilation Process
-+ Betty's Coding Style
-+ Hash-bang under the hood (Watch it only when you're done consuming the other resources)
-+ Linus Torvalds on C vs. C++ (Watch only after you are done consuming the other resources)
-
-## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google.
 
 ## General
 + Why C programming is awesome
@@ -22,13 +7,13 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 + What happens when you type gcc main.c
 + What is an entry point
 + What is main
-+ How to print text using printf, puts and putchar
-How to get the size of a specific type using the unary operator sizeof
++ How to print text using printf, puts and putchar How to get the size of a specific type using the unary operator sizeof
 + How to compile using gcc
 + What is the default program name when compiling with gcc
 + What is the official C coding style and how to check your code with betty-style
 + How to find the right header to include in your source code when using a standard library function
 + How does the main function influence the return value of the program
+
 ## Requirements
 ### C
 + Allowed editors: vi, vim, emacs
@@ -39,3 +24,44 @@ How to get the size of a specific type using the unary operator sizeof
 + There should be no errors and no warnings during compilation
 + You are not allowed to use system
 + Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+
+
+# C, Hello World
+## Resources
++ Everything you need to know to get started with C.pdf (You don't have to learn everything in it, but make sure you read the whole thing first)
++ Dennis Ritchie
++ C Programming Language Brian Kernighan
++ Why C programming is awesome
++ Learning to program in C part 1
++ Learning to program in C part 2
++ Understanding the C Program Compilation Process + Understanding the C Compilation Process
++ Betty's Coding Style
++ Hash-bang under the hood (Watch it only when you're done consuming the other resources)
++ Linus Torvalds on C vs. C++ (Watch only after you are done consuming the other resources)
+
+# C - Variables - if, else, while
+## Resources
++ Everything you need to know to start with C.pdf (You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.)
++ Keywords and identifiers
++ integers
++ Arithmetic Operators in C
++ If statements in C
++ if…else statement
++ Relational operators
++ Logical operators
++ while loop in C
++ While loop
+
+# C - Functions, nested loops
+## Resources
++ Nested while loops
++ C - Functions
++ Learning to Program in C (Part 06) (stop at 14:00)
++ What is a function prototype (read only the “Function prototype paragraph”)
++ What is the purpose of a function prototype?
++ C - Header Files (stop before the “Once-Only Headers” paragraph)
+
+# C - Makefiles
+## Resources
++ Makefile
++ Makefiletutorial
