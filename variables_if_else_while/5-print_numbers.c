@@ -11,9 +11,6 @@ int main(void)
 	{
 		putchar(num);
 		if (num < 57)
-		{
-			putchar(num);
-		}
 	}
 	putchar('\n');
 	return (0);
