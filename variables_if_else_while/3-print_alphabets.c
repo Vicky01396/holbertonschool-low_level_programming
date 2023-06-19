@@ -18,5 +18,6 @@ int main(void)
 		putchar(ALP);
 		ALP++;
 	}
+	putchar('\n');
 	return (0);
 }
