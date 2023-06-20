@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _last_digit - function that prints the las digit of a number
+ * print_last_digit - function that prints the las digit of a number
  * @v: the number to test
  * Return: last namber
  */
