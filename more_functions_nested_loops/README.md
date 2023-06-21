@@ -11,7 +11,8 @@ The numbers speak for themselves
 ### Task 4 - I believe in numbers and signs
 Write a function that prints the numbers, from 0 to 9, followed by a new line.
 ### Task 5 - Numbers constitute the only universal language
-Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
+Write a function that prints 10 times the numbers, from 0 to 14, followed by
+a new line.
 ### Task 6 - The shortest distance between two points is a straight line
 Write a function that draws a straight line in the terminal.
 ### Task 7 -  I feel like I am diagonally parked in a parallel universe
