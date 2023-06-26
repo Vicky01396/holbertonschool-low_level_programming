@@ -9,7 +9,9 @@ void rev_string(char *s)
 	char save;
 
 	while (s[read])
-		read++;	
+	{
+		read++;
+	}
 	while (daer < read--)
 	{
 		save = s[daer];
