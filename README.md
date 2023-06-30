@@ -65,3 +65,65 @@
 ## Resources
 + Makefile
 + Makefiletutorial
+
+# C - More functions, more nested loops
+## Resources
++ Nested while loops
++ C - Functions
++ Learning to Program in C (Part 06) (stop at 14:00)
++ What is the purpose of a function prototype?
++ C - Header Files (stop before the “Once-Only Headers” paragraph)
+
+# C - Pointers, arrays and strings
+## Concepts
+For this project, we expect you to look at these concepts:
+
++ Pointers and arrays
++ Data Structures
+## Resources
++ C - Arrays
++ C - Pointers
++ C - Strings
++ Memory Layout
+
+# C - More pointers, arrays and strings
+# C - Even more pointers, arrays and strings
+## Concepts
+For this project, we expect you to look at this concept:
+
+Pointers and arrays
+## Resources
++ C - Pointer to Pointer
++ C – Pointer to Pointer with example
++ Multi-dimensional Arrays in C
++ Two dimensional (2D) arrays in C programming with example
+
+# C - Recursion
+## Resources 
++ Recursion, introduction
++ What on Earth is Recursion?
++ C - Recursion
++ C Programming Tutorial 85, Recursion pt.1
++ C Programming Tutorial 86, Recursion pt.2
+
+# C - Static libraries
+## Concepts
+For this project, we expect you to look at this concept:
+
++ C static libraries
+## Resources
++ What Is A “C” Library? What Is It Good For?
++ Creating A Static “C” Library Using “ar” and “ranlib”
++ Using A “C” Library In A Program
++ What is difference between Dynamic and Static library(Static and Dynamic linking) (stop at 4:44)
+### man or help:
++ ar
++ ranlib
++ nm
+
+# C - argc, argv
+## Resources
++ Arguments to main
++ argc and argv
++ What does argc and argv mean?
++ how to compile with unused variables
