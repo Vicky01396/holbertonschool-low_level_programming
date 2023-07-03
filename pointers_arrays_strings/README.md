@@ -63,3 +63,38 @@ Write a function that copies the string pointed to by src, including the termina
 ### Tarea 10 - Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 Write a function that convert a string to an integer.
 
+Tasks 📝
+###Task 0 - strcat
+Write a function that concatenates two strings.
+###Task 1 -  strncat
+Write a function that concatenates two strings.
+###Task 2 - strncpy
+Write a function that copies a string.
+###Task 3 - strcmp
+Write a function that compares two strings.
+###Task 4 - I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
+Write a function that reverses the content of an array of integers.
+###Task 5 - Always look up
+Write a function that changes all lowercase letters of a string to uppercase.
+###Task 6 - Expect the best. Prepare for the worst. Capitalize on what comes
+Write a function that capitalizes all words of a string.
+###Task 7 - Mozart composed his music not for the elite, but for everybody
+Write a function that encodes a string into 1337.
+
+Tasks 📝
+###Task 0 - memset
+Write a function that fills memory with a constant byte.###Task
+###Task 1 - memcpy
+Write a function that copies memory area.
+###Task 2 - strchr
+Write a function that locates a character in a string.
+###Task 3 - strspn
+Write a function that gets the length of a prefix substring.
+###Task 4 - strpbrk
+Write a function that searches a string for any of a set of bytes.
+###Task 5 - strstr
+Write a function that locates a substring.
+###Task 6 - Chess is mental torture
+Write a function that prints the chessboard.
+###Task 7 - The line of life is a ragged diagonal between duty and desire
+Write a function that prints the sum of the two diagonals of a square matrix of integers.
