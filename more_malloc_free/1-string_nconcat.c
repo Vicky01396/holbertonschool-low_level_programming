@@ -1,5 +1,20 @@
 #include "main.h"
-#include <stdlib.h>
+/**
+ * _strlen - function that returns the length of a string.
+ * @s: char pointer
+ * Return: the length of a string.
+ */
+int _strlen(char *s)
+{
+	int cont = 0;
+
+	for (; s[cont] != '\0';)
+	{
+		cont++;
+	}
+	return (cont);
+}
+
 /**
  * _strcat - concatenate two strings
  * @dest: destination string
@@ -69,23 +84,6 @@ char *_memset(char *s, char b, unsigned int n)
 		s[j] = b;
 	}
 	return (s);
-}
-
-#include "main.h"
-/**
- * _strlen - function that returns the length of a string.
- * @s: char pointer
- * Return: the length of a string.
- */
-int _strlen(char *s)
-{
-	int cont = 0;
-
-	for (; s[cont] != '\0';)
-	{
-		cont++;
-	}
-	return (cont);
 }
 
 /**
