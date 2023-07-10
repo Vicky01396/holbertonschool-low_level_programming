@@ -159,3 +159,29 @@ For this project, we expect you to look at this concept:
 + include guard
 + Common Predefined Macros
 
+# C - Structures, typedef
+## Resources
++ 0x0d. Structures.pdf
++ struct (C programming language)
++ Documentation: structures
++ 0x0d. Typedef and structures.pdf
++ typedef
++ Programming in C by Stephen Kochan - Chapter 8, Working with Structures p163-189
++ The Lost Art of C Structure Packing (Advanced - not mandatory)
+
+# C - Function pointers
+## Resources
++ Function Pointer in C
++ Pointers to functions
++ Function Pointers in C / C++
++ why pointers to functions?
++ Everything you need to know about pointers in C
+
+# C - Variadic functions
+## Resources
++ stdarg.h
++ Variadic Functions
++ Const Keyword
+### man or help
++ stdarg
+
