@@ -185,3 +185,8 @@ For this project, we expect you to look at this concept:
 ### man or help
 + stdarg
 
+
+# C - Search Algorithms
+## Resources
++ Search algorithm
++ Space complexity (1)
