@@ -2,7 +2,6 @@
 
 /**
  * linear_search - finds a value in an array by linear search
-
 * @array: array
 * @size: size of the array
 * @value: value to search
@@ -12,7 +11,7 @@
 int linear_search(int *array, size_t size, int value)
 {
     unsigned int count = 0;
-
+    
     if (array)
     {
         while (count <= (size - 1))
@@ -22,10 +21,8 @@ int linear_search(int *array, size_t size, int value)
             {
                 return (count);
             }
-
             count++;
         }
     }
-
     return (-1);
 }
